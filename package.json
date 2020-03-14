@@ -1,0 +1,19 @@
+{
+  "name": "myproductapi",
+  "version": "1.0.0",
+  "description": "Simple REST API Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikrios/my-product-api.git"
+  },
+  "author": "Erik Rio Setiawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikrios/my-product-api/issues"
+  },
+  "homepage": "https://github.com/erikrios/my-product-api#readme"
+}
